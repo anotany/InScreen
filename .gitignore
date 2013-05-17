@@ -47,3 +47,4 @@ InScreen.opensdf
 *.a
 
 /include
+/lib
